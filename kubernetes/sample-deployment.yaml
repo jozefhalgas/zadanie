@@ -1,0 +1,17 @@
+# TASK:
+# Implement Kubernetes manifests
+---
+###
+# Deploymnent definition
+
+---
+###
+# Service definition
+
+---
+###
+# Ingress definition
+
+---
+###
+# HPA definition
